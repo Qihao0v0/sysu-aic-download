@@ -12,7 +12,7 @@
 ## 如何使用
 有两个选择：
 
-1. 下载`sysu-aic-download.user.js`，作为油猴脚本加载
+1. 下载`sysu-aic-download.user.js`，作为油猴脚本加载：[安装油猴脚本](https://github.com/Qihao0v0/sysu-aic-download/raw/refs/heads/main/sysu-aic-download.user.js)
 
 2. 直接复制这段代码，黏贴到F12-控制台中：
 ```javascript
